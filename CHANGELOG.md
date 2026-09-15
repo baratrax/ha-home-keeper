@@ -6,6 +6,14 @@ All notable changes to Home Keeper are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/) and the project uses semantic
 versioning, with PEP 440 pre-release suffixes (`bN`/`aN`/`rcN`) for betas.
 
+## [0.24.0b7]
+
+### Added
+
+- **[Note quick-view](https://prestomation.github.io/ha-home-keeper/docs/guide/dashboard-card#read-a-tasks-note-from-the-card).**
+  A task with a note shows a **Note** chip on the dashboard card. Tapping it opens
+  the note in a read-only dialog, rendered as Markdown. (Fixes #340)
+
 ## [0.24.0b6]
 
 ### Changed
