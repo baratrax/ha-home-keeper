@@ -35,6 +35,8 @@ what each row shows** setting hides notes from the row.
 
 The dialog is read-only. Edit a note in the panel task editor.
 
+![Home Keeper task card row with a "Note" chip, and the note quick-view dialog open showing "Under-sink RO filter"](../../images/card-note-dialog.png)
+
 #### Show a task's appliance documents on the card
 
 A task that is attached to an [appliance](../appliances/appliances.md) can show the
